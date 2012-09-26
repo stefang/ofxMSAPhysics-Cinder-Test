@@ -1,0 +1,1 @@
+Very simple cloth simulation example of how to get ofxMSAPhysics working in Cinder. Click to add random springs to the cloth.
