@@ -2,7 +2,7 @@ Very simple cloth simulation example of how to get ofxMSAPhysics working in Cind
 
 Requires the following:
 
-https://github.com/cinder/Cinder
-https://github.com/memo/ofxMSACore
-https://github.com/memo/ofSharedPtrExample
-https://github.com/memo/ofxMSAPhysics
+* https://github.com/cinder/Cinder
+* https://github.com/memo/ofxMSACore
+* https://github.com/memo/ofxMSAObjCPointer
+* https://github.com/memo/ofxMSAPhysics

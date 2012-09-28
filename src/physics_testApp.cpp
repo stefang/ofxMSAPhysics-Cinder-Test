@@ -23,17 +23,17 @@ class physics_testApp : public AppBasic {
     void addRandomParticle();
     void addRandomSpring();
     
-    msa::physics::World3D myWorld;
+    msa::physics::World3D   myWorld;
     
-    Perlin					mPerlin;
-    float					mSeed;
-	float					mOctaves;
-	float					mTime;
-    float                   mFrequency;
+    Perlin          mPerlin;
+    float			mSeed;
+	float			mOctaves;
+	float			mTime;
+    float           mFrequency;
     
-    CameraPersp		mCam;
+    CameraPersp     mCam;
     
-    Vec2f netSize;
+    Vec2f           netSize;
     
 };
 
